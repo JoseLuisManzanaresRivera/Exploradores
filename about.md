@@ -9,4 +9,4 @@ permalink: /about/
 
 ## About
 
-El sitio  es el punto de partida del proyecto difundiendo la iodiversidad de Monte Escobedo.
+El sitio  es el punto de partida del proyecto: Difundiendo la Biodiversidad de Monte Escobedo.
