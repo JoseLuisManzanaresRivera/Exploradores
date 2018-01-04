@@ -1,7 +1,7 @@
 # Site Settings
 title: Exploradores | Difundiendo la Biodiversidad de Monte Escobedo
-email: youremail@xyz.com
-description: Some text about your blog.
+email: joseluisuam@yahoo.com
+description: Un sitio dedicado al conocimiento de la biodiversidad del Municipio de Monte Escabedo, Zacatecas. 
 baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
 url: "https://www.rossener.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
