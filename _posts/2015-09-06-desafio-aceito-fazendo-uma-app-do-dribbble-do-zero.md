@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Desafio aceito. Fazendo uma app do Dribbble do zero"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: "Aves de Monte Escobedo"
+description: Si te interesa la naturaleza y te gustaría tener la experiencia de observar aves en su habitat natural, escuchar los sonidos del bosque y el cantar de las aves, bienvenido Monte Escobedo es para tí!! La Asociación EXPLORADORES ofrece una red de rutas para avistamiento de aves y cuenta con el acervo de especies más extenso disponible de la región. Acercate a EXPLORADORES y vive una expriencia única.
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807658/barney-stinson_eqt7kc.jpg'
 category: 'mobile'
 tags:
 - app
 - mobile
 - ios
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+twitter_text: Aves de Monte Escobedo.
+Monte Escobedo tiene el privilegio de albergar una extensa variedad de especies propias de un clima montañoso. En especial alberga una diversidad de aves, que hacen de este municipio un verdadedo paraíso. Además de la variedad de especies que habitan permamentemente esta tierra, Monte Escobedo es hogar de una gama amplia de aves migratorias que hacen de este lugar su hogar temporal. Durante los meses de invierno, el municipio recibe aves migratorias provenientes Canadá y otros sitios al norte. Si te interesa la naturaleza y te gustaría tener la experiencia de observar aves en su habitat natural, escuchar los sonidos del bosque y el cantar de las aves, bienvenido Monte Escobedo es para tí!! La Asociación EXPLORADORES ofrece una red de rutas para avistamiento de aves y cuenta con el acervo de especies más extenso disponible de la región. Acercate a EXPLORADORES y vive una expriencia única.
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
