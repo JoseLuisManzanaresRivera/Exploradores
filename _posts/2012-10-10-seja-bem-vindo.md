@@ -4,17 +4,17 @@ title: "Amanecer en La naturaleza de Montre Escobedo, Zacatecas"
 description: Conoce los tesoros de Monte Escobedo, valora la riqueza de nuestra tierra y llénate de energía al natural.
 image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515601340/atardecer_ucmso8.jpg'
 
-category: 'blog'
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+category: 'Senderismo en Monte Escobedo'
+twitter_text: Naturalmente Monte Escobedo.
 introduction: Conoce los tesoros de Monte Escobedo, valora la riqueza de nuestra tierra y llénate de energía al natural!
 ---
 
-Una tarde de verano en los alrededores de Monte Escobedo, Zacatecas <a href="#">Ruta de Senderismo</a>, cerca de la barranca de *Jocotic.*  Monte Escobedo ofrece magnificos paisajes naturales para disfrutar, este sitio en particular se halla en la ruta de senderismo denominada Cañadas. 
+Una tarde de verano en los alrededores de Monte Escobedo, Zacatecas <a href="#">Ruta de Senderismo</a>, cerca de la barranca de *Jocotic.*  Monte Escobedo ofrece magnificos paisajes naturales para disfrutar, este ruta en particular se halla en el circuito de senderismo denominado Cañadas. 
 
 
-> Actualmente se tienen en Monte Escobedo 5 Rutas de senderismo certificadas, estas permiten disfrutar de la naturaleza al tiempo que se tiene una sana actividad familiar. Las rutas incluyen diversos grados de habilidad, especialmente diseñadas para todo tipo de amantes de la naturaleza. 
+> Actualmente se tienen en Monte Escobedo 7 Rutas de senderismo certificadas, estas permiten disfrutar de la naturaleza al tiempo que se tiene una sana actividad familiar. Las rutas incluyen diversos grados de habilidad, especialmente diseñadas para todo tipo de amantes de la naturaleza. 
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+El circuito **Cañadas** se compone por 3 rutas, que muestran la magestuosidad de la naturelza en donde se mezclan imponentes paisajes y la tranquilidad del campo Monte Esobedense. A lo largo de estas rutas es posible conocer especies de flora y fauna y reflexionar sobre sobre la importancia de preservar los teroros naturales de nuestra tierra. 
 
 ## Inline HTML elements
 
