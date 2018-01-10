@@ -9,7 +9,7 @@ tags:
 - ios
 - cocoapods
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+introduction: Monte Escobedo cuenta con una red de sitos cerftificados para acampar distribuidos a lo largo del Municipio, estos permiten realizar actividas ecoturisticas. En tu próxima visita a Monte Escobedo considera una experiencia en armonía con la naturaeza y acampa en la red de sitios certificados que ofrece el municipio y que son operados  por **EXPLORADORES** lo que te permite una exdperiencia única y con las condiciones de seguridad ideales.  
 ---
 
 Conoce los sitios para acampar que se lozalizan en este bello Municipio. Estos sitios son areas certificadas por la <a href="#">Secretaria de Turismo de Zacatecas</a> que la asociación **Exploradores** ha identificado especialmente para realizar activiades ecoturísticas y ofrecen condiciones de seguridad ideales para disfrutar de la naturaleza.  
