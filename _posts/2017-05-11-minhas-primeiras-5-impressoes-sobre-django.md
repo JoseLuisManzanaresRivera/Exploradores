@@ -2,7 +2,7 @@
 layout: post
 title: "Bicicleta de Montaña"
 description: Disfruta de las rutas para bicicleta de montaña que Monte Escobedo tiene para tí.
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/v1504809708/django_g7djdj.jpg'
+image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515606352/autor/SergioCS6.jpg'
 category: 'Bicleta de Montaña'
 tags:
 - MTB
