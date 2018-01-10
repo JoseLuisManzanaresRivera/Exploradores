@@ -12,11 +12,12 @@ twitter_text: Aves de Monte Escobedo.
 introduction: Monte Escobedo tiene el privilegio de albergar una extensa variedad de especies propias de un clima montañoso. En especial alberga una diversidad de aves, que hacen de este municipio un verdadedo paraíso. Además de la variedad de especies que habitan permamentemente esta tierra, Monte Escobedo es hogar de una gama amplia de aves migratorias que hacen de este lugar su hogar temporal. Durante los meses de invierno, el municipio recibe aves migratorias provenientes Canadá y otros sitios al norte. Si te interesa la naturaleza y te gustaría tener la experiencia de observar aves en su habitat natural, escuchar los sonidos del bosque y el cantar de las aves, bienvenido Monte Escobedo es para tí!! La Asociación EXPLORADORES ofrece una red de rutas para avistamiento de aves y cuenta con el acervo de especies más extenso disponible de la región. Acercate a EXPLORADORES y vive una expriencia única.
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Si bien Monte Escobedo es tradicionalmene reconocido a nivel nacional por ser hogar del  *águila Real*. El municipio cuenta con una extensa diversidad de especies que hacen de este sitio un paraíso para los amantes de las aves. especies como la ... y la ... Así como un conjunto de aves migratorias que visitan el municipio en temporada invernal como la..  y por su puesto los gansos de cuello azul  blahh... 
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+> La diversidad de microclimas que se encuentran en MOnte Escobedo ha permitido que diversas especies de aves encuentren en estas tierras su hogar.
+
+La asociaciòn **Exporadores** cuenta con el acervo más extenso de aves en la región, este ha sido cuidadosamente registrado a lo largo de más dos dècadas y constiruye una base para el conocimiento de la biodiversidad del Municipio así como una fuente de información invaluable para la conservación de especies, el conocimiento de este tesoro es clave para que futuras generaciones puedan tener el priviegio de disfrutarlo. Si eres fan de las alas  y quieres volar con nosotros bienvenido!  Contribuye con su difusiòn, acercate a **EXPLORADORES** y experimenta las rutas para avistamiento de aves registradas en Monte Escobedo.  
 
 ## Inline HTML elements
 
