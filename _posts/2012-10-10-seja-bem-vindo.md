@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Amanecer en La naturaleza de Montre Escobedo, Zacatecas"
-description:Conoce los tesoros de Monte Escobedo, valora la riqueza de nuestra tierra y llénate de energía al natural!
+description: Conoce los tesoros de Monte Escobedo, valora la riqueza de nuestra tierra y llénate de energía al natural!
 image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515601340/atardecer_ucmso8.jpg'
 
 category: 'Paisajes'
