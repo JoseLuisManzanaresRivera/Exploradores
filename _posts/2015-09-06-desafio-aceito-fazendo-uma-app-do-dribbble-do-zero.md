@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aves de Monte Escobedo"
-description: Si te interesa la naturaleza y te gustaría tener la experiencia de observar aves en su habitat natural, escuchar los sonidos del bosque y el cantar de las aves, bienvenido Monte Escobedo es para tí!! La Asociación EXPLORADORES ofrece una red de rutas para avistamiento de aves y cuenta con el acervo de especies más extenso disponible de la región. Acercate a EXPLORADORES y vive una expriencia única.
+description: Si te interesa la naturaleza y te gustaría tener la experiencia de observar aves en su habitat natural, escuchar los sonidos del bosque y el cantar de las aves, bienvenido, Monte Escobedo es para tí!! La Asociación EXPLORADORES ofrece una red de rutas para avistamiento de aves y cuenta con el acervo de especies más extenso disponible de la región. Acercate a EXPLORADORES y vive una expriencia única.
 image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515615603/Amanecer/Aves/Aves28.jpg'
 category: 'Extiende tus alas Juanto a las Aves de Monte Escobedo'
 tags:
