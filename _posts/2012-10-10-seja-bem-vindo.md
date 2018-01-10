@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Amanecer en La naturaleza de Montre Escobedo, Zacatecas"
+title: "Amanecer en la naturaleza de Montre Escobedo, Zacatecas"
 description: Conoce los tesoros de Monte Escobedo, valora la riqueza de nuestra tierra y llénate de energía al natural.
 image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515601340/atardecer_ucmso8.jpg'
 
@@ -77,6 +77,8 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo r
 ## Images
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+
+<a href="https://placeholder.com"><img src="http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515608611/Amanecer/A1.jpg/350x150"></a>
 
 ![placeholder](https://placehold.it/800x400 "Large example image")
 ![placeholder](https://placehold.it/400x200 "Medium example image")
