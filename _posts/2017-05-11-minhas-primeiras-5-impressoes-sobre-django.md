@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Minhas primeiras 5 impressões sobre Django"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: "Bicicleta de Montaña"
+description: Disfruta de las rutas para bicicleta de montaña que Monte Escobedo tiene para tí.
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/v1504809708/django_g7djdj.jpg'
-category: 'django'
+category: 'Bicleta de Montaña'
 tags:
-- django
+- MTB
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+introduction: Monte Escobedo es un territorio con excelentes condiciones pra practicar el ciclismo de montaña, si lo tuyo es disfrutar de la naturaleza con una dosis de aventura extrema, te esperamos en el reto Monte Escobedo. En el municipio cuenta una serie de rutas enmarcados con magestuosos paisajes que debes descrubrir.
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
