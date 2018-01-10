@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Diga olá para o TRCurrencyTextField: Um componente com valor."
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807365/now-you-see-me_wtv89q.jpg'
-category: 'mobile'
+title: "Amanecer en Monte Escobedo"
+description: La magía y el poder de la natureza.
+image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515608611/Amanecer/A3.jpg'
+category: 'Amanecer'
 tags:
 - component
 - ios
