@@ -7,7 +7,7 @@ category: 'Bicleta de Montaña'
 tags:
 - MTB
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Monte Escobedo es un territorio con excelentes condiciones pra practicar el ciclismo de montaña, si lo tuyo es disfrutar de la naturaleza con una dosis de aventura extrema, te esperamos en el reto Monte Escobedo. En el municipio cuenta una serie de rutas enmarcados con magestuosos paisajes que debes descrubrir.
+introduction: Monte Escobedo es un territorio con excelentes condiciones pra practicar el ciclismo de montaña, si lo tuyo es disfrutar de la naturaleza con una dosis de aventura extrema, te esperamos en el reto Monte Escobedo. En el municipio cuenta una serie de rutas enmarcadas con magestuosos paisajes que debes descrubrir.
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
