@@ -15,9 +15,9 @@ introduction: Monte Escobedo tiene el privilegio de albergar una extensa varieda
 Si bien Monte Escobedo es tradicionalmene reconocido a nivel nacional por ser hogar del  *águila Real*. El municipio cuenta con una extensa diversidad de especies que hacen de este sitio un paraíso para los amantes de las aves. especies como la ... y la ... Así como un conjunto de aves migratorias que visitan el municipio en temporada invernal como la..  y por su puesto los gansos de cuello azul  blahh... 
 
 
-> La diversidad de microclimas que se encuentran en MOnte Escobedo ha permitido que diversas especies de aves encuentren en estas tierras su hogar.
+> La diversidad de microclimas que se encuentran en Monte Escobedo ha permitido que diversas especies de aves encuentren en estas tierras su hogar.
 
-La asociaciòn **Exporadores** cuenta con el acervo más extenso de aves en la región, este ha sido cuidadosamente registrado a lo largo de más dos dècadas y constiruye una base para el conocimiento de la biodiversidad del Municipio así como una fuente de información invaluable para la conservación de especies, el conocimiento de este tesoro es clave para que futuras generaciones puedan tener el priviegio de disfrutarlo. Si eres fan de las alas  y quieres volar con nosotros bienvenido!  Contribuye con su difusiòn, acercate a **EXPLORADORES** y experimenta las rutas para avistamiento de aves registradas en Monte Escobedo.  
+La asociación **Exporadores** cuenta con el acervo más extenso de aves en la región, este ha sido cuidadosamente registrado a lo largo de más dos décadas y constiruye una base para el conocimiento de la biodiversidad del Municipio así como una fuente de información invaluable para la conservación de especies, el conocimiento de este tesoro es clave para que futuras generaciones puedan tener el priviegio de disfrutarlo. Si eres fan de las alas  y quieres volar con nosotros bienvenido!  Contribuye con su difusiòn, acercate a **EXPLORADORES** y experimenta las rutas para avistamiento de aves registradas en Monte Escobedo. Ah  y no olvides tu càmara, seguramente te llevaras una bella postal.  
 
 ## Inline HTML elements
 
