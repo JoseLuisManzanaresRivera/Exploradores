@@ -12,7 +12,7 @@ twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Conoce los sitios para acampar que se lozalizan en este bello Municipio. Estos sitios son areas certificadas por la <a href="#"Secretaria de Turismo Zacagtecas</a>  que la asociación *Exploradores* ha identificado especialmente para realizar activiades ecoturísticas y ofrecen condiciones de seguridad ideales para disfrutar de la naturaleza.  
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
