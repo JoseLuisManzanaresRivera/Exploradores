@@ -3,7 +3,7 @@ layout: post
 title: "Amanecer en la naturaleza de Montre Escobedo, Zacatecas"
 description: La magía y el poder de la natureza.
 image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515608611/Amanecer/A3.jpg'
-category: 'Amanecer'
+category: 'Campismo'
 tags:
 - component
 - ios
