@@ -76,7 +76,7 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo r
 
 ## Images
 
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+Inclir some  imagenes de la coleccition 
 
 <a <img src="http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515608611/Amanecer/A1.jpg/350x150"></a>
 
