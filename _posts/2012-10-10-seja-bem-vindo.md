@@ -9,9 +9,10 @@ twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction: Conoce los tesoros de Monte Escobedo, valora la riqueza de nuestra tierra y llénate de energía al natural!
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Una tarde de verano en los alrededores de Monte Escobedo, Zacatecas <a href="#">Ruta de Senderismo</a>, cerca de la barranca de *Jocotic.*  Monte Escobedo ofrece magnificos paisajes naturales para disfrutar, este sitio en particular se halla en la ruta de senderismo denominada Cañadas. 
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+
+> Actualmente se tienen en Monte Escobedo 5 Rutas de senderismo certificadas, estas permiten disfrutar de la naturaleza al tiempo que se tiene una sana actividad familiar. Las rutas incluyen diversos grados de habilidad, especialmente diseñadas para todo tipo de amantes de la naturaleza. 
 
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
