@@ -2,17 +2,17 @@
 layout: post
 title: "Venados"
 date: 2017-09-10 12:26:40
-image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515700289/Venado1_koh4li.jpg'
+image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515700636/Venado1_lnaio9.jpg'
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 category: 'Venados'
 tags:
 - Jabalí
 - Guaolote
 twitter_text: Venados en Monte Escobedo.
-introduction: El Municipio de Monte Escobedo, es hogar del venado cola blanca, entre otras impresionantes especies de fauna como el guajolote silvestre y una diversa variedad de hermosas aves, incluyendo la imonente águila real.  En tu próxima visita acércate a Exploradores y da un paseo por las rutas para senderismo certificadas que Monte Escobedo tiene para tí y vive la experiencia de observar a estos hemosos animales en su habitat natural. 
+introduction: El Municipio de Monte Escobedo, es hogar del venado cola blanca, entre otras impresionantes especies de fauna como el guajolote silvestre y una diversa variedad de hermosas aves, incluyendo la imponente águila real.  En tu próxima visita acércate a Exploradores y da un paseo por las rutas para senderismo certificadas que Monte Escobedo tiene para tí y vive la experiencia de observar a estos hemosos animales en su habitat natural. 
 ---
 
-El venado cola blanca es una especie que se encentra en esta región, pastorea en las cañadas y planicies a lo largo del territorio municipal. Cuidar su habitat, permitirá que las futuras generaciones tengarn la experiencia de apreciar las diversidad natural que ofrece nuestro municipio. En **Exploradores**, mediante el proyecto: Difusión de la biodiversidad de Monte Escobedo, se ha generado un registro se sitios en los que esta especie habita, lo que permite su monitoreo y su preservación en el largo plazo. 
+El venado cola blanca es una especie que se encentra en esta región, pastorea en las cañadas y planicies a lo largo del territorio municipal. Cuidar su habitat, permitirá que las futuras generaciones puedan apreciar la diversidad natural que ofrece nuestro municipio. En **Exploradores**, mediante el proyecto: Difusión de la biodiversidad de Monte Escobedo, se ha generado un registro se sitios en los que esta especie habita, lo que permite su monitoreo y su preservación en el largo plazo. 
 
 > El registro de esta especie se integra actulmente en formato digital y esta diseñado para dar soporte a los trabajos de conservación de la biodiversidad del municipio de Monte Escobedo, por lo que tanto especialistas del sector académico, así como público interesado puede consultarlo. Acércate a **Exploradores** y contribuye con este esfuerzo.
 
