@@ -10,12 +10,12 @@ tags:
 - wordpress
 - blog
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+introduction: Un mundo natural por descurbir. Acercate a EXPLORADORES y conoce la variedad de Mariposas que  encuentran su hogar en estas tierras. Conoce su importancia y contribuye con la conservación de la biodiversidad de Monte Escobedo.
 ---
 
-Las tareas de conservacion que realiza **EXPLORADORES**, permiten contar con información referenciada geográficamente que tanto especialistas del sector académico como público general pueden acceder. La colección de  Lepidópteros (Mariposas y polillas), del *proyecto de difusión de biodiversidad de Monte Escobedo* que EXPLORADORES lleva a acabo, da cuenta de la riqueza natural de esta tierra y busca fomentar su conservación. En tu próxima visita a Monte Escobedo acercate a Exploradores y conoce los tesoros naturales de esta tierra.      
+Ejemplar de la Mariposa Monja Eulalia (Adelpha eulalia). Es común encontrar esta mariposa en encinos, generalmente vuela en el dosel de los árboles. Dada la densa cobertura de Encinos que se tienen en Monte Escobedo hoy en dia esta especie encentra un habitat ideal en esta región, sin embargo, eventos climaticos extremos, actividades humanas como la tala clandestina o los incendios forestales constituyen retos para la preservación de estas especies que a pesar de su diminuto tamaño juegan un papel clave en el equilibrio biológico.  
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+> Las tareas de conservacion que realiza **EXPLORADORES**, permiten contar con información referenciada geográficamente que tanto especialistas del sector académico como público general pueden acceder. La colección de  Lepidópteros (Mariposas y polillas), del *proyecto de difusión de biodiversidad de Monte Escobedo* que EXPLORADORES lleva a acabo, da cuenta de la riqueza natural de esta tierra y busca fomentar su conservación. En tu próxima visita a Monte Escobedo acercate a Exploradores y conoce los tesoros naturales de esta tierra.
 
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
