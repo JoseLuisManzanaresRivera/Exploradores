@@ -11,7 +11,10 @@ twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction: Conoce la diversidad de plantas y especies de flores de esta tierra.
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+
+El nombre fue otorgado por los misioneros jesuitas en 1610, debido a la similitud de algunas partes de la planta con símbolos religiosos de la Pasión de Cristo, el látigo con el que fue azotado = zarcillos, los tres clavos = estilos; estambres y la corola radial = la corona de espinas...<a href="https://es.wikipedia.org/wiki/Passiflora#Historia_del_g.C3.A9nero">dis parturient montes</a>
+
+
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
