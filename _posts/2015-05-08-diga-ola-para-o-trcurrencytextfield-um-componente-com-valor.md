@@ -3,7 +3,7 @@ layout: post
 title: "Amanecer en la naturaleza de Montre Escobedo, Zacatecas."
 description: La magía y el poder de la natureza.
 image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515633322/Campamento2_moehan.jpg'
-category: 'Campismo'
+category: 'Acampa en Monte Escobedo'
 tags:
 - component
 - ios
