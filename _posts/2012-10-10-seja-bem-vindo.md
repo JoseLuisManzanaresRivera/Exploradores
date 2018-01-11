@@ -14,7 +14,7 @@ Una tarde de verano en los alrededores de Monte Escobedo, Zacatecas <a href="#">
 
 > Actualmente se tienen en Monte Escobedo 7 Rutas de senderismo certificadas, estas permiten disfrutar de la naturaleza al tiempo que se tiene una sana actividad familiar. Las rutas incluyen diversos grados de habilidad, especialmente diseñadas para todo tipo de amantes de la naturaleza. 
 
-El circuito **Cañadas** se compone por 3 rutas, que muestran la magestuosidad de la naturelza en donde se mezclan imponentes paisajes y la tranquilidad del campo Monte Esobedense. A lo largo de estas rutas es posible conocer especies de flora y fauna y reflexionar sobre sobre la importancia de preservar los teroros naturales de nuestra tierra. 
+El circuito **Cañadas** se compone por 3 rutas, que muestran la magestuosidad de la naturelza en donde se mezclan imponentes paisajes y la tranquilidad del campo Monte Escobedense. A lo largo de estas rutas es posible conocer especies de flora y fauna y reflexionar sobre  la importancia de preservar los tesoros naturales de nuestra tierra. 
 
 ## Inline HTML elements
 
