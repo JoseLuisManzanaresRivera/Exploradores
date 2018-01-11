@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Por que o Sketch vale 3 tanques de gasolina?"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'webdev'
+title: "Plantas y flores"
+description: El registro de la biodiversidad del municipio permite su concervacion. Entre la diversidad de flora que encontramos en la región se tiene no solamente flores de ornato pero también diversas pantas medicinales. En EXPLORADORES se ha realizado un esfuerzo para integrar el registro de las especies que se encuentran en MOnte Escobedo, conoce este acervo y contribuye con esta iniciativa de conservación de la biodiversidad en Monte Escobedo.
+category: 'Plantas y Flores'
 tags:
 - design
 - sketch
-image: 'https://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_399,w_760/v1501102987/sketch-fuel_eiwjbz.png'
+image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515686811/f1_v4jiou.jpg'
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+introduction: Conoce la diversidad de plantas y especies de flores de esta tierra.
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
