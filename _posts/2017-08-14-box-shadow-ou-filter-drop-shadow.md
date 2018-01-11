@@ -2,8 +2,8 @@
 layout: post
 title: "Arqueología"
 date: 2017-08-14 22:55:45
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1502757949/o-sombra_xyw4wq.jpg'
-description: Las huellas de culturas prehispánicas han quedado grabadas en los alrededores de esta tierra. El conocimieto de los vestigios de estos habitantes nos permite comprender su forma de vida y adentrarnos en su concepción del medio  natural, que gracias a sus calidades ha permitido el florecimiento de vida por años. La labor de conservación de EXPLORADORES, ha permitido la generación de un acervo de los sitios arqueológicos localizados en Monte Escobedo, actulamente se trabaja en la digitalización de esta riqueza cultural patrimonio  histórico de esta tierra Zacatecana.  Te interesa conocer más sobre estos vestigios contacta en Exploradores y sé parte de este esfuerzo de conservación y disfusión de los tesoros de este municipio,
+image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515690847/Vestigios/Vestigios9.jpg'
+description: Las huellas de culturas prehispánicas han quedado grabadas en los alrededores de esta tierra. El conocimieto de los vestigios de estos habitantes nos permite comprender su forma de vida y adentrarnos en su concepción del medio  natural, que gracias a sus calidades ha permitido el florecimiento de vida por años. La labor de conservación de EXPLORADORES, ha permitido la generación de un acervo de los sitios arqueológicos localizados en Monte Escobedo, actulamente se trabaja en la digitalización de esta riqueza cultural patrimonio  histórico de esta tierra Zacatecana.  ¿Te interesa conocer más sobre estos vestigios? contacta s Exploradores y sé parte de este esfuerzo de conservación y disfusión de los tesoros de este municipio.
 category: 'Arqueología'
 tags:
 - Sitios
