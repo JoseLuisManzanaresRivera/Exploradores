@@ -2,14 +2,14 @@
 layout: post
 title: "La Ruta de las Tapias"
 description: Monte Escobedo cuenta con un rica historía, construida a lo largo de los años por su gente preseverante y trabajadora. La migración hacia Estados Unidos ha sido desde tiempos lejanos una constante en el Municipio, estos procesos sociales han dejado su huella en nuestro territorio. Recorre con EXPLORADORES sitios emblemáticos llenos de historia que definen nuestra identidad.
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/v1504810464/hello-world-vue_ibatoy.jpg'
-category: 'tutorial'
+image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515633663/tapias_1_dafxlt.jpg'
+category: 'La Ruta de las Tapias'
 tags:
 - vuejs
 - javascript
 - tutorial
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+introduction: La riqueza histórica del Monte Escobedo es un patrimonio de alto valor, los habitantes han moldeado esta tierra a lo largo de los años y su huella  ha quedado, como testimonio de la tenacidad y grandeza de su gente. Ven y Exlora con nosotros los sitios de interés histórico que Monte Escobedo posee y revive la escencia de la gente de esta tierra zacatecana.
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
