@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Plantas y flores"
-description: El registro de la biodiversidad del municipio permite su concervacion. Entre la diversidad de flora que encontramos en la región se tiene no solamente flores de ornato pero también diversas pantas medicinales. En EXPLORADORES se ha realizado un esfuerzo para integrar el registro de las especies que se encuentran en MOnte Escobedo, conoce este acervo y contribuye con esta iniciativa de conservación de la biodiversidad en Monte Escobedo.
+description: El registro de la biodiversidad del municipio permite su concervacion. Entre la diversidad de flora que encontramos en la región se tiene no solamente flores de ornato pero también diversas pantas medicinales. Durante las últimas dos décadas en EXPLORADORES se ha realizado un esfuerzo para integrar el registro de las especies que se encuentran en Monte Escobedo, conoce este acervo y contribuye con esta iniciativa de conservación de la biodiversidad en Monte Escobedo.
 category: 'Plantas y Flores'
 tags:
 - design
@@ -12,7 +12,7 @@ introduction: Conoce la diversidad de plantas y especies de flores de esta tierr
 ---
 
 
-El nombre fue otorgado por los misioneros jesuitas en 1610, debido a la similitud de algunas partes de la planta con símbolos religiosos de la Pasión de Cristo, el látigo con el que fue azotado = zarcillos, los tres clavos = estilos; estambres y la corola radial = la corona de espinas.  <a href="https://es.wikipedia.org/wiki/Passiflora#Historia_del_g.C3.A9nero">referencia</a>
+Ejemplar conocido con el nombre de "Flor de la pasión", especie del género Passiflora. El nombre fue otorgado por los misioneros jesuitas en 1610, debido a la similitud de algunas partes de la planta con símbolos religiosos de la Pasión de Cristo, el látigo con el que fue azotado = zarcillos, los tres clavos = estilos; estambres y la corola radial = la corona de espinas.  <a href="https://es.wikipedia.org/wiki/Passiflora#Historia_del_g.C3.A9nero">referencia</a>
 
 
 
