@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La Ruta de las Tapias"
-description: Monte Escobedo cuenta con un rica historía, construida a lo largo de los años por su gente preseverante y trabajadora. La migración hacia Estados Unidos ha sido desde tiempos lejanos una constante en el Municipio, estos procesos sociales han dejado su huella en nuestro territorio. Recorre con EXPLORADORES sitios emblemáticos llenos de historia que definen nuestra identidad.
+description: Monte Escobedo cuenta con un rica historía, construida a lo largo de los años por su gente perseverante y trabajadora. La migración hacia Estados Unidos ha sido desde tiempos lejanos una constante en el Municipio, estos procesos sociales han dejado su huella en nuestro territorio. Recorre con EXPLORADORES sitios emblemáticos llenos de historia que definen nuestra identidad.
 image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515633663/tapias_1_dafxlt.jpg'
 category: 'La Ruta de las Tapias'
 tags:
