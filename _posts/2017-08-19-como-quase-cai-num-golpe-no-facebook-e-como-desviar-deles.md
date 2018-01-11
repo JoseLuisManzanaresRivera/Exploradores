@@ -3,7 +3,7 @@ layout: post
 title: "Venados"
 date: 2017-09-10 12:26:40
 image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515700636/Venado1_lnaio9.jpg'
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+description: La riqueza en la fauna de la región de Monte Escobedo, se hace manifiesta con la presencia de lso ejemplares de venado cola blanca a lo largo del territorio.
 category: 'Venados'
 tags:
 - Jabalí
