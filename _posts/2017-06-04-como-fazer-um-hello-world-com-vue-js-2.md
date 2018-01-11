@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Como fazer um Hello World com Vue.js 2"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: "La Ruta de las Tapias"
+description: Monte Escobedo cuenta con un rica historía, construida a lo largo de los años por su gente preseverante y trabajadora. La migración hacia Estados Unidos ha sido desde tiempos lejanos una constante en el Municipio, estos procesos sociales han dejado su huella en nuestro territorio. Recorre con EXPLORADORES sitios emblemáticos llenos de historia que definen nuestra identidad.
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/v1504810464/hello-world-vue_ibatoy.jpg'
 category: 'tutorial'
 tags:
