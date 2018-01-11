@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Fazendo um formulário de Contato no Jekyll com Vue.js"
+title: "Hongos"
 date: 2017-08-07 23:04:08
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1502208952/contact-post_gnaojy.png'
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'tutorial'
+image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515690135/Hongos/Hongos5.jpg'
+description: En Monte Escobedo la gama climática que tiene lugar abarca desde zonas boscosas, en las zonas de mayor altitud hasta planicies y cañadas de temperaturas semicálidas, estas variaciones permiten observar el surgimiento de diferente especies de Hongos.  
+category: 'Hongos'
 tags:
 - vuejs
 - jekyll
 - blog
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+introduction: Los hongos son coloridas expresiones de los procesos biológicos, sus caprichosas formas y divresidad de colores son además una muestra de la complegidad  y magia de la naturaleza. 
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
