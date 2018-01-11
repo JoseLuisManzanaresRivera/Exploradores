@@ -9,7 +9,7 @@ tags:
 - javascript
 - tutorial
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: La riqueza histórica del Monte Escobedo es un patrimonio de alto valor, los habitantes han moldeado esta tierra a lo largo de los años y su huella  ha quedado, como testimonio de la tenacidad y grandeza de su gente. Ven y Exlora con nosotros los sitios de interés histórico que Monte Escobedo posee y revive la escencia de la gente de esta tierra zacatecana.
+introduction: La riqueza histórica del Monte Escobedo es un patrimonio de alto valor, los habitantes han moldeado esta tierra a lo largo de los años y su huella  ha quedado como testimonio de la tenacidad y grandeza de su gente. Ven y Explora con nosotros los sitios de interés histórico que Monte Escobedo posee y revive la escencia de la gente de esta tierra zacatecana.
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
