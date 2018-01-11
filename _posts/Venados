@@ -1,20 +1,22 @@
 ---
 layout: post
-title: "Monte Escobedo al natural. Explora los circuitos para senderismo que te ofrece esta tierra"
-description: Conoce los tesoros de Monte Escobedo, valora la riqueza de nuestra tierra y llénate de energía al natural.
-image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515601340/atardecer_ucmso8.jpg'
-
-category: 'Senderismo en Monte Escobedo'
-twitter_text: Naturalmente Monte Escobedo.
-introduction: Conoce los tesoros de Monte Escobedo, valora la riqueza de nuestra tierra y llénate de energía al natural!
+title: "Venados"
+date: 2017-09-10 12:26:40
+image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515700636/Venado1_lnaio9.jpg'
+description: La riqueza en la fauna de la región de Monte Escobedo, se hace manifiesta con la presencia de lso ejemplares de venado cola blanca a lo largo del territorio.
+category: 'Venados'
+tags:
+- Jabalí
+- Guaolote
+twitter_text: Venados en Monte Escobedo.
+introduction: El Municipio de Monte Escobedo, es hogar del venado cola blanca, entre otras impresionantes especies de fauna como el guajolote silvestre y una diversa variedad de hermosas aves, incluyendo la imponente águila real.  En tu próxima visita acércate a Exploradores y da un paseo por las rutas para senderismo certificadas que Monte Escobedo tiene para tí y vive la experiencia de observar a estos hemosos animales en su habitat natural. 
 ---
 
-Una tarde de verano en los alrededores de Monte Escobedo, Zacatecas <a href="#">Ruta de Senderismo</a>, cerca de la barranca de *Jocotic.*  Monte Escobedo ofrece magnificos paisajes naturales para disfrutar, este ruta en particular se halla en el circuito de senderismo denominado Cañadas. 
+El venado cola blanca es una especie que se encentra en esta región, pastorea en las cañadas y planicies a lo largo del territorio municipal. Cuidar su habitat, permitirá que las futuras generaciones puedan apreciar la diversidad natural que ofrece nuestro municipio. En **Exploradores**, mediante el proyecto: Difusión de la biodiversidad de Monte Escobedo, se ha generado un registro se sitios en los que esta especie habita, lo que permite su monitoreo y su preservación en el largo plazo. 
 
+> El registro de esta especie se integra actulmente en formato digital y esta diseñado para dar soporte a los trabajos de conservación de la biodiversidad del municipio de Monte Escobedo, por lo que tanto especialistas del sector académico, así como público interesado puede consultarlo. Acércate a **Exploradores** y contribuye con este esfuerzo.
 
-> Actualmente se tienen en Monte Escobedo 7 Rutas de senderismo certificadas, estas permiten disfrutar de la naturaleza al tiempo que se tiene una sana actividad familiar. Las rutas incluyen diversos grados de habilidad, especialmente diseñadas para todo tipo de amantes de la naturaleza. 
-
-El circuito **Cañadas** se compone por 3 rutas, que muestran la magestuosidad de la naturelza en donde se mezclan imponentes paisajes y la tranquilidad del campo Monte Escobedense. A lo largo de estas rutas es posible conocer especies de flora y fauna y reflexionar sobre  la importancia de preservar los tesoros naturales de nuestra tierra. 
+Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
 ## Inline HTML elements
 
@@ -76,10 +78,11 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo r
 
 ## Images
 
-Inclir some  imagenes de la coleccition 
+Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
-<a <img src="http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515608611/Amanecer/A1.jpg/350x150"></a>
-
+![placeholder](https://placehold.it/800x400 "Large example image")
+![placeholder](https://placehold.it/400x200 "Medium example image")
+![placeholder](https://placehold.it/200x200 "Small example image")
 
 ## Tables
 
@@ -124,4 +127,6 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur e
 -----
 
 Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+
+
 
