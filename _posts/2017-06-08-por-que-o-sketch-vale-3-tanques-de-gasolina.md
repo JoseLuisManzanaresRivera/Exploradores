@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Plantas y flores"
-description: El registro de la biodiversidad del municipio permite su concervacion. Entre la diversidad de flora que encontramos en la región se tiene no solamente flores de ornato pero también diversas pantas medicinales. Durante las últimas dos décadas en EXPLORADORES se ha realizado un esfuerzo para integrar el registro de las especies que se encuentran en Monte Escobedo, conoce este acervo y contribuye con esta iniciativa de conservación de la biodiversidad en Monte Escobedo.
+description: El registro de la biodiversidad del municipio permite su concervación. Entre la diversidad de flora que encontramos en la región se tiene no solamente flores de ornato pero también diversas plantas medicinales. Durante las últimas dos décadas en EXPLORADORES se ha realizado un esfuerzo para integrar el registro de las especies que se encuentran en Monte Escobedo, conoce este acervo y contribuye con esta iniciativa de conservación de la biodiversidad en Monte Escobedo.
 category: 'Plantas y Flores'
 tags:
 - design
