@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Diga olá para o TRCurrencyTextField: Um componente com valor."
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807365/now-you-see-me_wtv89q.jpg'
-category: 'mobile'
+title: "Amanecer en la naturaleza de Montre Escobedo, Zacatecas."
+description: La magía y el poder de la natureza.
+image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515608611/Amanecer/A3.jpg'
+category: 'Campismo'
 tags:
 - component
 - ios
 - cocoapods
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+introduction: Monte Escobedo cuenta con una red de sitos cerftificados para acampar distribuidos a lo largo del Municipio, estos permiten realizar actividas ecoturisticas. En tu próxima visita a Monte Escobedo considera una experiencia en armonía con la naturaeza y acampa en la red de sitios certificados que ofrece el municipio y que son operados  por EXPLORADORES lo que te permite una exdperiencia única y con las condiciones de seguridad ideales.  
 ---
 
 Conoce los sitios para acampar que se lozalizan en este bello Municipio. Estos sitios son areas certificadas por la <a href="#">Secretaria de Turismo de Zacatecas</a> que la asociación **Exploradores** ha identificado especialmente para realizar activiades ecoturísticas y ofrecen condiciones de seguridad ideales para disfrutar de la naturaleza.  
