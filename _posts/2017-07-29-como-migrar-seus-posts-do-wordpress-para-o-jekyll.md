@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Como migrar seus posts do Wordpress para o Jekyll de um jeito simples"
+title: "Mariposas"
 date: 2017-07-29 13:24:49
-image: 'https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1501345962/wordpress-to-jekyll_mx4ddm.png'
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'blog'
+image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515688689/m1_tutwmq.jpg'
+description: La majestuosa flora de Monte Escobedo es hogar de una gran cantidad de especies de mariposas, estas juegan un papel clave para el proceso de polinización, lo que permite un ciclo de beneficio mutuo.  
+category: 'Mariposas'
 tags:
 - jekyll
 - wordpress
