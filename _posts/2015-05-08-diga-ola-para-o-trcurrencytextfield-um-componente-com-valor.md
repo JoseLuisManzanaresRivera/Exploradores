@@ -9,6 +9,7 @@ tags:
 - ios
 - cocoapods
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+
 introduction: Monte Escobedo cuenta con una red de sitos cerftificados para acampar distribuidos a lo largo del Municipio, estos permiten realizar actividas ecoturisticas. En tu próxima visita a Monte Escobedo considera una experiencia en armonía con la naturaeza y acampa en la red de sitios certificados que ofrece el municipio y que son operados  por EXPLORADORES lo que te permite una exdperiencia única y con las condiciones de seguridad ideales.  
 ---
 
