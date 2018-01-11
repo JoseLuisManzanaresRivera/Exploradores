@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "box-shadow ou filter: drop-shadow?"
+title: "Arqueología"
 date: 2017-08-14 22:55:45
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1502757949/o-sombra_xyw4wq.jpg'
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'css'
+category: 'Arqueología'
 tags:
-- css
-- frontend
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- Sitios
+- flechas
+twitter_text: Arqueología en Monte Escobedo.
+introduction: La riqueza histórica de esta tierra se remonta en el tiempo a culturas cuyas formas  de convivnecia con la naturaelza  dan cuenta de una consmovisión en armonía con el medio ambiente entre nuestros predecesores. Las bondades de esta tierra han permitido la existencia de asentamientos humanos, desde timepos inmemoriales,  conocer estos tesoros históricos nos permite reflexinar sobre el balance entre el medio ambiente y la actividad humana. Monte Escobedo alberga una serie de sitios de interés arqueológico, que incluye pinturas rupestres, petrograbados y vetigios de pueblos prehispánicos que practicaban la caseria por medio de flechas y trabajaban la piedra para moldear herramientas de uso cotidiano. Acércate a EXPLORADORES, conoce la rutas de asentamientos prehistoricos y vive una experiencia única llena de cultura e história enmarcada en el magestuoso entorno natural de esta tierra.
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
