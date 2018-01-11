@@ -12,7 +12,7 @@ introduction: Conoce la diversidad de plantas y especies de flores de esta tierr
 ---
 
 
-El nombre fue otorgado por los misioneros jesuitas en 1610, debido a la similitud de algunas partes de la planta con símbolos religiosos de la Pasión de Cristo, el látigo con el que fue azotado = zarcillos, los tres clavos = estilos; estambres y la corola radial = la corona de espinas <a href="https://es.wikipedia.org/wiki/Passiflora#Historia_del_g.C3.A9nero">referencia</a>
+El nombre fue otorgado por los misioneros jesuitas en 1610, debido a la similitud de algunas partes de la planta con símbolos religiosos de la Pasión de Cristo, el látigo con el que fue azotado = zarcillos, los tres clavos = estilos; estambres y la corola radial = la corona de espinas.  <a href="https://es.wikipedia.org/wiki/Passiflora#Historia_del_g.C3.A9nero">referencia</a>
 
 
 
