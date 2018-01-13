@@ -5,6 +5,9 @@ description: Conoce los tesoros de Monte Escobedo, valora la riqueza de nuestra 
 image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515601340/atardecer_ucmso8.jpg'
 
 category: 'Senderismo en Monte Escobedo'
+tags: 
+- Mapas
+
 twitter_text: Naturalmente Monte Escobedo.
 introduction: Conoce los tesoros de Monte Escobedo, valora la riqueza de nuestra tierra y llénate de energía al natural!
 ---
