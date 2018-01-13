@@ -6,8 +6,8 @@ image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515690
 description: Las huellas de culturas prehispánicas han quedado grabadas en los alrededores de esta tierra. El conocimieto de los vestigios de estos habitantes nos permite comprender su forma de vida y adentrarnos en su concepción del medio  natural, que gracias a sus calidades ha permitido el florecimiento de vida por años. La labor de conservación de EXPLORADORES, ha permitido la generación de un acervo de los sitios arqueológicos localizados en Monte Escobedo, actulamente se trabaja en la digitalización de esta riqueza cultural patrimonio  histórico de esta tierra Zacatecana.  ¿Te interesa conocer más sobre estos vestigios? contacta s Exploradores y sé parte de este esfuerzo de conservación y disfusión de los tesoros de este municipio.
 category: 'Una paseo por la história'
 tags:
-- Sitios
-- flechas
+- Vestigios
+- Flechas
 twitter_text: Arqueología en Monte Escobedo.
 introduction: La riqueza histórica de esta tierra se remonta en el tiempo a culturas cuyas formas  de convivnecia con la naturaelza  dan cuenta de una cosmovisión en armonía con el medio ambiente entre nuestros predecesores. Las bondades de esta tierra han permitido la existencia de asentamientos humanos, desde tiempos inmemoriales,  conocer estos tesoros históricos nos permite reflexionar sobre el balance entre el medio ambiente y la actividad humana. Monte Escobedo alberga una serie de sitios de interés arqueológico, que incluye pinturas rupestres, petrograbados y vestigios de pueblos prehispánicos que practicaban la casería por medio de flechas y trabajaban la piedra para moldear herramientas de uso cotidiano. Acércate a EXPLORADORES, conoce la rutas de asentamientos prehispánicos y vive una experiencia única llena de cultura e história enmarcada por magestuoso entorno natural de esta tierra.
 ---
