@@ -2,9 +2,10 @@
 layout: post
 title: "Calendario"
 description: Hola, soy Sergio Carrillo Sánchez soy de Monte Escobedo y mi pasión es la fotografía de la naturaleza, te invito a que apoyes la labor de preservación del patrimonio natural de Monte Escobedo, se parte del esfuerzo de EXLORADORES! 
+image: 'http://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1515690720/PlantasFlores-2/2PlanFlores17.jpg'
 category: 'Souvenir'
 tags:
-- Calendarios
+- Calendario
 - Puzzles
 twitter_text: Calendario Monte Escobedo al Natural.
 introduction: Exploradores realiza un esfuerzo para difundir los tesoros naturales de nuestro municipio, te invitamos a que adquieras el calendario  con la colección de imagenes mas impresionantes, al contribuir con esta acción eres parte de este esfuerzo de disfusión. 
