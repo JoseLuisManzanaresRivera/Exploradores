@@ -1,10 +1,4 @@
-# Site Settings
-title: Exploradores | Difundiendo la Biodiversidad de Monte Escobedo
-email: thexploradores@gmail.com
-description: Un sitio dedicado al conocimiento de la biodiversidad del Municipio de Monte Escabedo, Zacatecas. 
-baseurl: "/Exploradores" # the subpath of your site, e.g. /blog
-url: "https://github.com/JoseLuisManzanaresRivera/Exploradores/edit/gh-pages/_config.yml" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+
 
 # User Settings
 username: Exploradores
@@ -29,15 +23,6 @@ permalink: /:title/
 gems:
   - jemoji
 
-# Links to include in menu navigation
-# For external links add external: true
-links:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Contact
-    url: /contact/
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
