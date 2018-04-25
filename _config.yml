@@ -1,1 +1,12 @@
+# Site Settings
+title: EXPLORADORES | Difundiendo la Biodiversidad de Monte Escobedo
+email: thexploradores@gmail.com
+description: Un sitio dedicado al conocimiento de la biodiversidad del Municipio de Monte Escabedo, Zacatecas. 
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
 
+# User Settings
+username: Exploradores
+user_description: Sergio Carrillo Sánchez
+disqus_username: disqus_username
