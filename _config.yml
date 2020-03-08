@@ -1,21 +1,20 @@
-title: Exploradorex | Difundiendo la Biodiversidad de Monte Escobedo
+# Site Settings
+title: EXPLORADORES | Difundiendo la Biodiversidad de Monte Escobedo
 email: thexploradores@gmail.com
 description: Un sitio dedicado al conocimiento de la biodiversidad del Municipio de Monte Escabedo, Zacatecas. 
-baseurl: "/Exploradores" # the subpath of your site, e.g. /blog
-url: "https://joseluismanzanaresrivera.github.io/jlmr.github.io/" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-
 
 # User Settings
 username: Exploradores
-user_description: Exploradores es una agrupacion dedicada al conocimiento de la biodiversidad y la preservacion del patrimonio cultural e histórico, con base en Monte Escobedo, Zacatecas
+user_description: Sergio Carrillo Sánchez
 disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_JoseLuisManzanaresRivera
-facebook_username: facebook_username
-twitter_username: twitter_JLManzanaresR
+facebook_username: Exploradores-124737764353663
+twitter_username: TheXploradores
 instagram_username: instagram_username
 linkedin_username: linkedin_username
 medium_username: medium_username
@@ -24,6 +23,7 @@ medium_username: medium_username
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
+
 
 # Plugins
 gems:
@@ -41,11 +41,3 @@ links:
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
-
-## Donation
-
-Did you like my work? Buy me a beer :)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YT3BC53XLMJ96&lc=GB&item_name=Thiago%20Rossener%20Nogueira&item_number=DON1212&no_note=0&cn=Adicionar%20instru%c3%a7%c3%b5es%20especiais%20para%20o%20vendedor%3a&no_shipping=2&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
-
-Actualmente Exploradores es una organización conformada por habitantes de Monte Escobdedo, cuya pasión por la naturaleza y amor por esta tierra los ha llevado a empreder iniciativas para la preservación de la biodiversidad del Municipio. Entre las activiads que EXPLORADORES  realiza se encuentra la creación de un acervo digital sobre las especies de flora y fauna de este territorio. El trabajo de documentar en imagenes los teroros de MOnte Escobedo es realizado por Sergio Carrillo Sánchez. La recolección y sistematización de estas imagfens require tiempo, si bien la pasión por la naturaleza 
